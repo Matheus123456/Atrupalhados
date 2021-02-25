@@ -2,10 +2,10 @@
 
 session_start();
 
-$localhost = 'localhost';
-$user = 'u940287720_atrupalhados';
-$pass = 'Killer@123';
-$banco = 'u940287720_atrupalhados';
+$localhost = '';
+$user = '';
+$pass = '';
+$banco = '';
 
 global $pdo;
 
